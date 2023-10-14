@@ -1,48 +1,48 @@
 {   
-	"id": "dh2e-resources",
-	"name": "dh2e-resources",   
-	"title": "Dark Heresy 2nd Edition Resource Pack",   
-	"description": "750+ Items from 4 rulebooks and self created",   
-	"authors": [
-		{
-		"name": "Nosferaschu",
-		"url": "https://github.com/Nosferaschu/dh2e_resources"
-		}
-	],
-	"version": "0.7.0",
-	"systems": "dark-heresy",
-	"minimumCoreVersion": "0.7.9",
-	"compatibleCoreVersion":"0.7.9",
-	"compatibility": {
-		"minimum": "0.8.6",
-		"verified": "10"
-			}
-	"packs": [
-	{
+    "id": "dh2e-resources",
+    "name": "dh2e-resources",   
+    "title": "Dark Heresy 2nd Edition Resource Pack",   
+    "description": "750+ Items from 4 rulebooks and self created",   
+    "authors": [
+         {
+	"name": "Nosferaschu",
+	"url": "https://github.com/Nosferaschu/dh2e_resources"
+         }
+    ],
+    "version": "0.7.0",
+    "systems": "dark-heresy",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion":"0.7.9",
+    "compatibility": {
+	"minimum": "0.8.6",
+	"verified": "10"
+	}
+    "packs": [
+     {
       "name": "Ammunition_Explosives",
       "label": "Ammunition: Explosives",
 	  "system": "dark-heresy",
       "path": "packs/Ammunition/explosives.db",
       "entity": "Item",
       "module": "dh2e_resources"
-    },
-	{
+     },
+     {
       "name": "Ammunition_Special",
       "label": "Ammunition: Special",
 	  "system": "dark-heresy",
       "path": "packs/Ammunition/special.db",
       "entity": "Item",
       "module": "dh2e_resources"
-    },
-	{
+     },
+     {
       "name": "Ammunition_Standard",
       "label": "Ammunition: Standard",
 	  "system": "dark-heresy",
       "path": "packs/Ammunition/standard.db",
       "entity": "Item",
       "module": "dh2e_resources"
-    },
-	{
+     },
+     {
       "name": "Ammunition_Xeno",
       "label": "Ammunition: Xeno",
 	  "system": "dark-heresy",
